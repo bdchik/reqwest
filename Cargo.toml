@@ -97,7 +97,7 @@ __native-tls-alpn = ["native-tls-crate?/alpn", "hyper-tls?/alpn"]
 [dependencies]
 base64 = "0.22"
 http = "1.1"
-url = "2.4"
+url = "2.5.4"
 bytes = "1.2"
 futures-core = { version = "0.3.28", default-features = false }
 futures-util = { version = "0.3.28", default-features = false, optional = true }
